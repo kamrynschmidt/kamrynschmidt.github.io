@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+    font-family: "Times New Roman", Times, serif;
+    margin: 20px;
+}
+
+img {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+}
+
+p {
+    width: 600px;
+    margin: 0 auto;
+    font-size: 18px; 
+    line-height: 1.4;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.highlight {
+    background-color: orange;
+}
+
+.red-bold {
+    color: red;
+    font-weight: bold;
+}
